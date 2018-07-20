@@ -30,7 +30,7 @@ android {
     }
 }
 ```
-**Get Camera Permissions On AndroidManifest.xml**
+**Get Camera Permissions in AndroidManifest.xml**
 ```xml
   <uses-permission android:name="android.permission.CAMERA"/>
 ```
